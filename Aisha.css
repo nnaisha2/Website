@@ -166,6 +166,10 @@
     margin-bottom: 1em; /* Space between paragraphs */
     text-align: justify; /* Cleaner paragraph alignment */
   }
+#projects .note {
+    font-size: 0.9em; 
+    color: #5b3d5e;
+  }
 
   #contact {
     background-color: #ffffff; /* Soft background color */
