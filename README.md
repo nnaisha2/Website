@@ -5,7 +5,7 @@ This repository contains the code for y Portfolio website. It is developed using
 ## Usage
 
 - Clone this repository to your local machine.
-- Open the `aisha.html` file in a modern browser of your choice to view the portfolio.
+- Open the `index.html` file in a modern browser of your choice to view the portfolio.
 - Navigate through the site using the navigation links at the head of the page.
 
 ## Features
